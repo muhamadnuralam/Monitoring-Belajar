@@ -1,8 +1,11 @@
-# PengalamanBelajar
+**20 Juni 2021**  
 
-Repository Ini Berisi Pengalaman Belajar di Dicoding
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
+  * Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
 
-**22 Agustus 2023**  
+  * Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting. 
 
-- Minggu pertama belajar matrikulasi meliputi
+  * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar. 
+
+  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
